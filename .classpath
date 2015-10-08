@@ -15,5 +15,8 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="F:/Program Files/Java/java/lib/giraph-core-1.1.0-hadoop2.jar"/>
 	<classpathentry kind="lib" path="F:/Program Files/Java/java/lib/hadoop-common-0.23.5.jar"/>
+	<classpathentry kind="lib" path="F:/Program Files/Java/java/lib/spark-core_2.10-1.5.1.jar"/>
+	<classpathentry kind="lib" path="F:/Program Files/Java/java/lib/spark-mllib_2.10-1.5.1.jar"/>
+	<classpathentry kind="lib" path="F:/Program Files/Java/java/lib/scala-library-2.10.2-rc1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
